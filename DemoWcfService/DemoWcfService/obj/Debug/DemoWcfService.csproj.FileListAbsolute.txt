@@ -1,0 +1,6 @@
+c:\users\gabe\documents\visual studio 2015\Projects\DemoWcfService\DemoWcfService\bin\DemoWcfService.dll.config
+c:\users\gabe\documents\visual studio 2015\Projects\DemoWcfService\DemoWcfService\bin\DemoWcfService.dll
+c:\users\gabe\documents\visual studio 2015\Projects\DemoWcfService\DemoWcfService\bin\DemoWcfService.pdb
+c:\users\gabe\documents\visual studio 2015\Projects\DemoWcfService\DemoWcfService\obj\Debug\DemoWcfService.csprojResolveAssemblyReference.cache
+c:\users\gabe\documents\visual studio 2015\Projects\DemoWcfService\DemoWcfService\obj\Debug\DemoWcfService.dll
+c:\users\gabe\documents\visual studio 2015\Projects\DemoWcfService\DemoWcfService\obj\Debug\DemoWcfService.pdb
