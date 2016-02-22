@@ -1,0 +1,7 @@
+C:\Users\gabe\Documents\wcftest\DemoWcfServiceUnitTestProject\DemoWcfServiceUnitTestProject\bin\Debug\DemoWcfServiceUnitTestProject.dll.config
+C:\Users\gabe\Documents\wcftest\DemoWcfServiceUnitTestProject\DemoWcfServiceUnitTestProject\bin\Debug\DemoWcfServiceUnitTestProject.dll
+C:\Users\gabe\Documents\wcftest\DemoWcfServiceUnitTestProject\DemoWcfServiceUnitTestProject\bin\Debug\DemoWcfServiceUnitTestProject.pdb
+C:\Users\gabe\Documents\wcftest\DemoWcfServiceUnitTestProject\DemoWcfServiceUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gabe\Documents\wcftest\DemoWcfServiceUnitTestProject\DemoWcfServiceUnitTestProject\obj\Debug\DemoWcfServiceUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\gabe\Documents\wcftest\DemoWcfServiceUnitTestProject\DemoWcfServiceUnitTestProject\obj\Debug\DemoWcfServiceUnitTestProject.dll
+C:\Users\gabe\Documents\wcftest\DemoWcfServiceUnitTestProject\DemoWcfServiceUnitTestProject\obj\Debug\DemoWcfServiceUnitTestProject.pdb

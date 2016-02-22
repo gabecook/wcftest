@@ -1,17 +1,18 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using DemoWcfServiceUnitTestProject.WcfServiceReference;
+using DemoWcfService;
 
-namespace DemoWcfServiceUnitTestProject
+namespace DemoWcfServiceUnitTestDirect
 {
     [TestClass]
     public class UnitTest1
     {
-        static private Service1Client client;
-        [ClassInitialize()]
-        public static void ClassInit(TestContext context)
+        Service1 service;
+
+        [TestInitialize()]
+        public void Initialize()
         {
-            client = new Service1Client();
+            service = new Service1();
         }
 
         [TestMethod]
@@ -19,8 +20,8 @@ namespace DemoWcfServiceUnitTestProject
         {
             // arrange
 
-            // act
-            String result = client.GetData(1);
+            // test act
+            String result = service.GetData(1);
             // assert
             Assert.AreEqual(result, "You entered: 1");
         }
@@ -33,7 +34,7 @@ namespace DemoWcfServiceUnitTestProject
             c.BoolValue = false;
             c.StringValue = "Hello!";
             // act
-            CompositeType result = client.GetDataUsingDataContract(c);
+            CompositeType result = service.GetDataUsingDataContract(c);
             // assert
             Assert.AreEqual(result.BoolValue, false);
             Assert.AreEqual(result.StringValue, "Hello!");
